@@ -1,4 +1,4 @@
-# Three.js Journey
+# Gallaxy Collision-By-WhiteDevil
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
